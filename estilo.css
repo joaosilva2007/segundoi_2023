@@ -1,1 +1,9 @@
-
+*:root {
+    --branco:#ffffff;
+    --preto:#000000;
+    --roxo:#9c08e0;
+}
+ * {
+    margin: 0;
+    padding: 0;
+}   
