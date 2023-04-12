@@ -12,3 +12,6 @@
     width: 100%;
     background-color: var(--branco);
 }
+body{
+font-family: 'Khand', sans-serif;
+}
