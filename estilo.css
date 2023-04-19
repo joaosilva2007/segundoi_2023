@@ -15,3 +15,6 @@
 body{
 font-family: 'Khand', sans-serif;
 }
+body{
+    background-color: var(--branco);
+}
